@@ -18,5 +18,5 @@ In this repository we look at importing data from a csv formatted file into a go
 2. Create new features and visualizations
 3. Interpret the results
 
-##Tools we'll be using
+## Tools we'll be using
 * Google sheets
