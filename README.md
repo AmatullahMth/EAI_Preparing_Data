@@ -12,3 +12,8 @@ In this repository we look at importing data from a csv formatted file into a go
   |Limited        |Drinking water from an improved source, for which collection time exceeds 30 minutes for a round trip, including queue time.                            |
   |Unimproved     |Drinking water from an unprotected dug well or unprotected spring.                                                                                      |
   |Surface water  |Drinking water directly from a river, dam, lake, pond, stream, canal, or irrigation canal.                                                              |
+
+## There are 3 parts to this project
+1. Import and clean data
+2. Create new features and visualizations
+3. Interpret the results
